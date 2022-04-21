@@ -1,0 +1,37 @@
+body {
+    background-color: #FAEEE0;
+}
+.heading-top {
+    color: #911F27;
+    font-size: 40px
+}
+b {
+    color: #8D2828;
+}
+.heading-middle {
+    color: #32502E;
+    font-size: 30px;
+}
+.par {
+    color: #890F0D;
+    font-size: 25px;
+}
+table {
+    background-color: #C0D8C0;
+    border: #C0D8C0 5px solid; 
+}
+th,td {
+    border: #52616b 3px solid;
+}
+.italics {
+    font-size: italic;
+    color: #52616b;
+}
+.use {
+    color: #EA5C2B;
+    font-size: 25px;
+}
+.step {
+    color: #C85C5C;
+    font-size: 20px;
+}
